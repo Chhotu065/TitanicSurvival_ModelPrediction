@@ -1,4 +1,4 @@
-# Titanic Survival Prediction using Random Forest
+# Titanic Survival Prediction using Random Forest Classifier
 
 ## Project Overview
 This repository focuses on predicting the survival of passengers aboard the Titanic using a **Random Forest Classifier**. The project leverages data preprocessing, feature engineering, and model tuning to achieve an accuracy of **82%** on test data, providing insights into the factors influencing survival.
